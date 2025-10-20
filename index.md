@@ -4,5 +4,4 @@ layout: home
 nav_order: 1
 ---
 
-# TechExcel: Migrate SAP to Azure
-
+# TechWorkshop L300 Migrate SAP to Azure
