@@ -6,11 +6,12 @@ has_children: true
 ---
 
 
-## Lab overview 
+## Overview 
 
+### Customer story
 
-### Reference
-- This link is the overview for the overall solution: [MS Learn: Solution overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/solution-overview)
+Contoso Electronics is a leading company that sells and distributes computer equipment and consumer electronics, including products like laptops, smartphones, and accessories. They supply both retail stores and directly serve business customers, making them an essential partner for many organizations. ​
+Contoso Electronics wants to integrate SAP data with Copilot agents to enhance customer interactions and optimize their sales processes.
 
 ### Architecture
 Microsoft provides **Sentinel solution for SAP applications**. There are two methods for deployment, agent-based and agentless. The agentless process is still in preview and requires special permissions. For this lab, we are using the agent-based deployment.
@@ -26,3 +27,6 @@ Here is an image from [MS Learn: Solution overview](https://learn.microsoft.com/
 Here is another image from the same article. It details deployment steps and the typical teams involved in the steps. We previously deployed the SAP cloud appliance. For this lab we followed the steps listed to connect SAP and Sentinel.
 
 ![Deployment Steps.png](../../media//DeploymentSteps.png)
+
+### Reference
+- This link is the overview for the overall solution: [MS Learn: Solution overview](https://learn.microsoft.com/en-us/azure/sentinel/sap/solution-overview)
